@@ -1,4 +1,4 @@
-# Welcome to the [Scheuerell Lab](https://faculty.washington.edu/scheuerl/)!
+# Welcome to the [Scheuerell Lab](https://depts.washington.edu/appliedecology/)!
 
 To help ensure a safe, inclusive environment, everyone is expected to abide by our [Code of Conduct](https://github.com/scheuerell-lab/onboarding/wiki/1.-Code-of-Conduct). This policy extends to all visitors as well. 
 
